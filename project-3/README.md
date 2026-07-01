@@ -14,7 +14,7 @@
 
 ## Slides
 
-> Coloque aqui o link para o PDF da apresentação final.
+> [WebNavi PDF](WebNavi_Apresentacao_Final.pptx.pdf)
 
 # Sintaxe da Linguagem WebNavi
 
